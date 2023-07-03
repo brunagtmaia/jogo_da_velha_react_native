@@ -27,8 +27,13 @@ Este é um projeto simples do jogo da velha desenvolvido em React Native.
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver melhorias a serem feitas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+## Imagens do projeto
+<div style="display: flex">
+  <img src="src/assets/img/1.jpeg" width="200px" height="auto">
+  <img src="src/assets/img/2.jpeg" width="200px" height="auto">
+  <img src="src/assets/img/3.jpeg" width="200px" height="auto">
+  <img src="src/assets/img/4.jpeg" width="200px" height="auto">
+  <img src="src/assets/img/5.jpeg" width="200px" height="auto">
+</div>
 
 
